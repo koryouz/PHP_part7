@@ -1,0 +1,9 @@
+p {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+ol {
+  list-style-type: none;
+  font-size: 50px;
+}
